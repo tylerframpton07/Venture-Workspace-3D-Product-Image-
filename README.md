@@ -21,7 +21,7 @@ Browser storage is local to this device and browser. Keep the JSON backup or han
 
 ## GitHub Pages
 
-`vite.config.js` sets the project base path to `/Venture-Workspace-3D-Product-Image-/`. The included Pages workflow builds and deploys this repository to its GitHub Pages project site whenever `main` is updated. Enable GitHub Pages with **GitHub Actions** as the source in repository settings.
+`vite.config.js` sets the project base path to `/Venture-Workspace-3D-Product-Image-/`. The included Pages workflow builds and deploys this repository to its GitHub Pages project site whenever `main` is updated. The live studio is at <https://tylerframpton07.github.io/Venture-Workspace-3D-Product-Image-/>.
 
 ## Contents
 
@@ -35,4 +35,3 @@ Browser storage is local to this device and browser. Keep the JSON backup or han
 - Model generation is an authored procedural approximation; one image cannot establish exact hidden geometry or dimensions.
 - The editor stores browser project snapshots as named parts and editable values. GLB is the portable mesh handoff.
 - Three.js modules are CDN loaded, so the interactive editor needs network access in the browser. Core project backups and source files are local.
-- The app has not been published because the requested GitHub repository could not be reached from this environment.
